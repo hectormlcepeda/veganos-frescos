@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "6ad5dec7-02d0-4b6a-b9d3-04408d264de0",
+    "name": "Aguacate",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "id": "a6ed1657-9a96-4cde-9f8d-9024e88c5444",
+    "name": "Ajinomoto",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 163
+      }
+    ]
+  },
+  {
+    "id": "ef8831ec-a3e6-4895-9b40-dfec74c98bb7",
+    "name": "Ajinomoto grueso",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 163
+      }
+    ]
+  },
+  {
+    "id": "3ca62080-b068-4232-a4c4-08e7ef447056",
+    "name": "Ajo americano",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 240
+      }
+    ]
+  },
+  {
+    "id": "5815ef1b-27b9-46b5-a9be-bc95eed60498",
+    "name": "Ajíes cubanela",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": "595e579f-145a-41a0-9154-b17f2d99a679",
+    "name": "Ajíes gustoso",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 153
+      }
+    ]
+  },
+  {
+    "id": "d3ced897-09f9-4c16-9d52-c7b59539db1a",
+    "name": "Ajíes habaneros",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 128
+      }
+    ]
+  },
+  {
+    "id": "b5f00ac8-471e-4cb7-afd1-1531981f547f",
+    "name": "Ajíes jalapeños",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 148
+      }
+    ]
+  },
+  {
+    "id": "b375d1eb-6f8c-431c-a3f1-4d07a3e38a48",
+    "name": "Ajíes picantes",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 198
+      }
+    ]
+  },
+  {
+    "id": "f9694c61-bcaf-49d5-9234-4f113c240dbb",
+    "name": "Albahaca",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 88
+      },
+      {
+        "unit": "Libra",
+        "price": 230
+      }
+    ]
+  },
+  {
+    "id": "39f6f8bb-db76-4ab5-8b90-9e44a2f4ea95",
+    "name": "Anís comino",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 453
+      }
+    ]
+  },
+  {
+    "id": "afed9bd1-984e-4bb8-b89b-bdfcc29fdb5f",
+    "name": "Anís estrella",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 795
+      }
+    ]
+  },
+  {
+    "id": "46eb4057-f32b-4ff7-b2f3-f75a3a632c74",
+    "name": "Apio",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 53
+      }
+    ]
+  },
+  {
+    "id": "9024c46d-def6-477b-abd9-bf1e049d9e9a",
+    "name": "Arvejas",
+    "group": "Granos",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 78
+      }
+    ]
+  },
+  {
+    "id": "f0af9e0d-6b17-4233-bc27-426f9d04bb68",
+    "name": "Auyama",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 28
+      }
+    ]
+  },
+  {
+    "id": "4c75b977-59c4-43f7-a594-a6622e15797c",
+    "name": "Batata",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 33
+      }
+    ]
+  },
+  {
+    "id": "2dc22636-a810-493e-b4c3-abe231462f20",
+    "name": "Batata importada",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 92
+      }
+    ]
+  },
+  {
+    "id": "848a8dba-1f2a-4ecc-bfba-4280db30be9b",
+    "name": "Berenjena china",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 41
+      }
+    ]
+  },
+  {
+    "id": "dcf37ba5-07be-4c46-b456-d410ad348214",
+    "name": "Berenjena criolla",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 29
+      }
+    ]
+  },
+  {
+    "id": "f1f5ee65-055e-40b9-86fd-beb228b9a8f0",
+    "name": "Berenjena negra",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 41
+      }
+    ]
+  },
+  {
+    "id": "3daeead6-3082-46fe-89c8-f836d46b2661",
+    "name": "Berro",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 77
+      }
+    ]
+  },
+  {
+    "id": "4c1fc7d2-33fe-4b31-a8c5-f0ec3dfed5f7",
+    "name": "Brócoli",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 68
+      }
+    ]
+  },
+  {
+    "id": "16021ff9-2614-49be-8620-83fdceacb08e",
+    "name": "Canela entera",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 398
+      }
+    ]
+  },
+  {
+    "id": "d4770a9a-d1fd-4c0c-964e-271d11688e8a",
+    "name": "Cebolla blanca",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 61
+      }
+    ]
+  },
+  {
+    "id": "21bc7d9e-0f6c-4ba2-abea-44dd7abd6c0f",
+    "name": "Cebolla jumbo",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 108
+      }
+    ]
+  },
+  {
+    "id": "63a66d49-e005-42ab-81fb-1230ed90d824",
+    "name": "Cebolla roja",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 61
+      }
+    ]
+  },
+  {
+    "id": "0100ae64-828c-4f6c-81ed-cf0884c9b595",
+    "name": "Cebollín",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 352
+      }
+    ]
+  },
+  {
+    "id": "8cc77763-76a5-47a6-a343-a8a12340198c",
+    "name": "Chinola",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 25
+      },
+      {
+        "unit": "Libra",
+        "price": 68
+      }
+    ]
+  },
+  {
+    "id": "e5002415-1ee6-4e2b-b37c-4a7a6d8ef473",
+    "name": "Cilantrico",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 72
+      },
+      {
+        "unit": "Libra",
+        "price": 83
+      }
+    ]
+  },
+  {
+    "id": "f18624aa-66cc-4148-9846-a0a52796451e",
+    "name": "Cilantro ancho",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 83
+      },
+      {
+        "unit": "Paquete",
+        "price": 72
+      }
+    ]
+  },
+  {
+    "id": "d80b3e71-d4be-4f75-8fb8-687f932f8b54",
+    "name": "Clavo dulce",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 598
+      }
+    ]
+  },
+  {
+    "id": "bfb4556e-e1ad-4dc5-8863-58ca91164dcb",
+    "name": "Coliflor",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 71
+      }
+    ]
+  },
+  {
+    "id": "477f3643-96fe-41f6-b714-a8415b77a01a",
+    "name": "Corazón de romana",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 242
+      }
+    ]
+  },
+  {
+    "id": "1ff241c8-31eb-4129-88c0-92a49fee3da3",
+    "name": "Espinaca",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 153
+      },
+      {
+        "unit": "Libra",
+        "price": 78
+      }
+    ]
+  },
+  {
+    "id": "dffd48cb-e52c-495f-88e7-b7b459e759c7",
+    "name": "Espinaca baby",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 398
+      }
+    ]
+  },
+  {
+    "id": "fdd20366-0ab6-43cd-a682-0428e47ea791",
+    "name": "Fresas",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 168
+      }
+    ]
+  },
+  {
+    "id": "e980a366-d3b0-43fa-a523-786ddceae248",
+    "name": "Gandules secos",
+    "group": "Granos",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 98
+      }
+    ]
+  },
+  {
+    "id": "c69113b4-a22e-4f31-af64-89cea99e1d19",
+    "name": "Gandules verdes",
+    "group": "Granos",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 168
+      }
+    ]
+  },
+  {
+    "id": "368c059c-6bf2-47ba-94ae-b546797b5480",
+    "name": "Guineo maduro",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 24
+      },
+      {
+        "unit": "Unidad",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": "d103bb6f-6645-4696-a628-f14293cdec8b",
+    "name": "Guineo verde",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": "c3f9dbfd-4c7f-4365-8224-70029fe273a2",
+    "name": "Habichuela blanca",
+    "group": "Granos",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 73
+      }
+    ]
+  },
+  {
+    "id": "57eb08fb-9493-44df-8608-a3e889061f0a",
+    "name": "Habichuela gira",
+    "group": "Granos",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 73
+      }
+    ]
+  },
+  {
+    "id": "d211bacd-e976-4099-93fb-0ebe9889e6e1",
+    "name": "Habichuela jacomelo",
+    "group": "Granos",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 78
+      }
+    ]
+  },
+  {
+    "id": "7fa86007-8415-49ea-bf0b-1a16c9089b1c",
+    "name": "Habichuela negra",
+    "group": "Granos",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 73
+      }
+    ]
+  },
+  {
+    "id": "e8b60eff-ee18-481e-9651-f0e598ad1f64",
+    "name": "Habichuelas rojas",
+    "group": "Granos",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 93
+      }
+    ]
+  },
+  {
+    "id": "a7cdd8ce-a508-4cee-948a-8909b9d101ff",
+    "name": "Hierbabuena",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 82
+      },
+      {
+        "unit": "Libra",
+        "price": 162
+      }
+    ]
+  },
+  {
+    "id": "c85a4407-d103-4f8d-ac6c-592377e472bf",
+    "name": "Hinojo",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 57
+      }
+    ]
+  },
+  {
+    "id": "153ace36-4b92-427f-a71c-84018a470ed4",
+    "name": "Hongos champiñones",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 338
+      }
+    ]
+  },
+  {
+    "id": "a58bdd14-1914-4287-9e8d-75f06676ffb3",
+    "name": "Hongos portobello",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 358
+      }
+    ]
+  },
+  {
+    "id": "d0ecd272-7a77-451b-97af-dbf33fd74bc3",
+    "name": "Huevos",
+    "group": "Huevos",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Cartón",
+        "price": 248
+      }
+    ]
+  },
+  {
+    "id": "9d1280f2-4996-4ccd-9d13-01798b7762b3",
+    "name": "Jengibre",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 128
+      }
+    ]
+  },
+  {
+    "id": "d0365e34-3904-46f3-b975-514828f62f54",
+    "name": "Lechosa",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 98
+      },
+      {
+        "unit": "Libra",
+        "price": 26
+      }
+    ]
+  },
+  {
+    "id": "2456cdc1-26d7-470d-92bd-6d2cbea3f7f4",
+    "name": "Lechuga kale",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 188
+      }
+    ]
+  },
+  {
+    "id": "928edf9f-d216-4715-a7ba-4724af6c77dd",
+    "name": "Lechuga morada",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 51
+      }
+    ]
+  },
+  {
+    "id": "5dfca9f8-6fba-4b90-b14a-ba01e6c2b696",
+    "name": "Lechuga repollada",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 38
+      }
+    ]
+  },
+  {
+    "id": "6723c0dd-3fdd-48c8-9dc5-73479e39b914",
+    "name": "Lechuga rizada",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 38
+      }
+    ]
+  },
+  {
+    "id": "edbf7173-16ae-4344-b447-2e7943c07323",
+    "name": "Lechuga romana",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 48
+      }
+    ]
+  },
+  {
+    "id": "8280bed4-d542-4040-83eb-6531c4c5290d",
+    "name": "Lentejas",
+    "group": "Granos",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 78
+      }
+    ]
+  },
+  {
+    "id": "89592dd9-38c6-4bdc-b021-1e3d04cbb817",
+    "name": "Limones",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 93
+      }
+    ]
+  },
+  {
+    "id": "47297d31-f6e0-4ff3-acf7-7eab5af20512",
+    "name": "Limón amarillo",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 138
+      }
+    ]
+  },
+  {
+    "id": "3804d4ff-a376-4268-8fae-29c73d855a46",
+    "name": "Malagueta",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 363
+      }
+    ]
+  },
+  {
+    "id": "729e2f3e-a4fc-4c26-8e51-cdf295d3aefc",
+    "name": "Manzana roja",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 51
+      },
+      {
+        "unit": "Libra",
+        "price": 128
+      }
+    ]
+  },
+  {
+    "id": "c0b8dfef-a9ef-4ab4-85ed-a7bd731773d7",
+    "name": "Manzana verde",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 61
+      },
+      {
+        "unit": "Libra",
+        "price": 138
+      }
+    ]
+  },
+  {
+    "id": "4420e659-0f17-4fb9-968e-960210bab8ce",
+    "name": "Maíz tierno",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 128
+      }
+    ]
+  },
+  {
+    "id": "922ad071-9db5-4d9f-a25a-16080da45f4a",
+    "name": "Melón",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 113
+      }
+    ]
+  },
+  {
+    "id": "45e8988e-c6f5-4e67-8c58-7ff54d6f3dea",
+    "name": "Menta",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 82
+      },
+      {
+        "unit": "Libra",
+        "price": 223
+      }
+    ]
+  },
+  {
+    "id": "545ba926-4fd2-4bc4-bffa-61cf85748758",
+    "name": "Molondrón",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 43
+      }
+    ]
+  },
+  {
+    "id": "a8b286c2-58d6-4e64-8e54-e283911b5c34",
+    "name": "Nabos",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 48
+      }
+    ]
+  },
+  {
+    "id": "f33c99fa-fff8-4312-bb44-2a5b9a575acc",
+    "name": "Naranja agria",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 19
+      },
+      {
+        "unit": "Libra",
+        "price": 48
+      }
+    ]
+  },
+  {
+    "id": "f5566f98-1d73-4417-88a3-d4aac3df83a2",
+    "name": "Naranja dulce",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 23
+      },
+      {
+        "unit": "Libra",
+        "price": 63
+      }
+    ]
+  },
+  {
+    "id": "7cf910c2-5bf0-4b68-8b22-df1cfeac7936",
+    "name": "Naranja navel",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 58
+      },
+      {
+        "unit": "Libra",
+        "price": 113
+      }
+    ]
+  },
+  {
+    "id": "d15f3d85-a8db-4964-a8a5-23c09bb1ba15",
+    "name": "Orégano entero",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 153
+      }
+    ]
+  },
+  {
+    "id": "9c97aa06-ed0a-46b9-a0ba-e3e38140c2ca",
+    "name": "Orégano molido",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 163
+      }
+    ]
+  },
+  {
+    "id": "de787feb-5291-42af-b54e-f898c0ae11e3",
+    "name": "Papa baby",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 48
+      }
+    ]
+  },
+  {
+    "id": "9f4cd529-75c1-480d-a618-843c18bc37d5",
+    "name": "Papa selecta",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 51
+      }
+    ]
+  },
+  {
+    "id": "9ca21a6d-7a3c-4759-9e8f-90308da5d12f",
+    "name": "Pepino japonés",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 78
+      }
+    ]
+  },
+  {
+    "id": "cae3db44-40d1-4190-9aac-5ee57960ade0",
+    "name": "Pepinos",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 21
+      }
+    ]
+  },
+  {
+    "id": "b53728c4-8cc5-4eff-958c-07c4da3dfdba",
+    "name": "Peras danjou",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 68
+      }
+    ]
+  },
+  {
+    "id": "bcd4f18f-4ad3-496f-9386-c7969aac5be9",
+    "name": "Perejil liso",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 72
+      }
+    ]
+  },
+  {
+    "id": "9d04223e-9343-40f3-80bc-13edda782b9e",
+    "name": "Perejil rizado",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 72
+      }
+    ]
+  },
+  {
+    "id": "5f830d92-f8c4-4675-9383-88260d406cf2",
+    "name": "Pimienta negra entera",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 598
+      }
+    ]
+  },
+  {
+    "id": "d28db681-fff7-4bc9-8c73-ca7f0ba25015",
+    "name": "Pimienta negra molida",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 653
+      }
+    ]
+  },
+  {
+    "id": "9bd0710a-7cc5-42d4-a61c-7c8221a24354",
+    "name": "Pimiento amarillo",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 88
+      }
+    ]
+  },
+  {
+    "id": "fe9036fd-697c-42cc-86a0-c98c2de7237b",
+    "name": "Pimiento naranja",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 88
+      }
+    ]
+  },
+  {
+    "id": "c1a1dc91-b71c-4dc3-9ce1-bf4252dc4aa5",
+    "name": "Pimiento rojo",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 88
+      }
+    ]
+  },
+  {
+    "id": "8c3b7c7d-b777-4619-ac0a-c35212af44f9",
+    "name": "Pimiento verde",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 88
+      }
+    ]
+  },
+  {
+    "id": "b533e75b-bce8-4bbb-926f-d92dad6bf9a2",
+    "name": "Piña",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 118
+      },
+      {
+        "unit": "Libra",
+        "price": 33
+      }
+    ]
+  },
+  {
+    "id": "1796f3bf-3c38-4910-9d3f-17d490ca863f",
+    "name": "Plátano maduro",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 28
+      }
+    ]
+  },
+  {
+    "id": "5773f178-8371-4f9b-8864-1a5e48575b08",
+    "name": "Plátano verde",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 31
+      }
+    ]
+  },
+  {
+    "id": "85d7c81e-51a0-4a97-970a-daec56b187a9",
+    "name": "Puerro fino",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 147
+      },
+      {
+        "unit": "Libra",
+        "price": 117
+      }
+    ]
+  },
+  {
+    "id": "30aab15a-c01a-48d3-a241-4697d584b1df",
+    "name": "Puerro grueso",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 63
+      }
+    ]
+  },
+  {
+    "id": "30c35acf-1590-4a75-a771-2977ce07a32d",
+    "name": "Pulpa de chinola",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Galón",
+        "price": 1453
+      }
+    ]
+  },
+  {
+    "id": "e03743e1-8a93-41c0-bba9-057ea9991bcf",
+    "name": "Remolacha",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 43
+      }
+    ]
+  },
+  {
+    "id": "aa210ab6-1c2a-4160-b5fb-d5507e41c82a",
+    "name": "Repollo blanco",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 128
+      },
+      {
+        "unit": "Libra",
+        "price": 31
+      }
+    ]
+  },
+  {
+    "id": "a354f0d6-44f8-4ed9-8692-bf63700091f0",
+    "name": "Repollo chino",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 38
+      }
+    ]
+  },
+  {
+    "id": "404f23c2-0fc4-43a4-9ba2-daf8ebba7307",
+    "name": "Repollo morado",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 58
+      }
+    ]
+  },
+  {
+    "id": "ed1fae31-1413-42be-9743-331af8ec2225",
+    "name": "Romero",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 52
+      },
+      {
+        "unit": "Libra",
+        "price": 92
+      }
+    ]
+  },
+  {
+    "id": "0b257746-5dd0-4058-a233-da01373efbba",
+    "name": "Rábano",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 68
+      }
+    ]
+  },
+  {
+    "id": "42c413b9-3b87-4da8-b44c-7cb9415d2fe8",
+    "name": "Rábano baby",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 188
+      }
+    ]
+  },
+  {
+    "id": "323ec9dd-18de-4d46-beba-d2d2aaae61d6",
+    "name": "Rúcula 1/2 libra silvestre",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 198
+      }
+    ]
+  },
+  {
+    "id": "21a7ca01-b931-40c9-8a45-158dce552564",
+    "name": "Rúcula selvática",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 168
+      }
+    ]
+  },
+  {
+    "id": "3ee39c40-df61-4e2c-bb85-76984c0fa023",
+    "name": "Salvia",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 78
+      }
+    ]
+  },
+  {
+    "id": "34a3b53b-e211-4ccc-8d34-60a7ef45f266",
+    "name": "Sandía",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Unidad",
+        "price": 353
+      },
+      {
+        "unit": "Libra",
+        "price": 33
+      }
+    ]
+  },
+  {
+    "id": "291ee08a-4941-4925-9ed2-0383fd54ebde",
+    "name": "Tayota",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 22
+      }
+    ]
+  },
+  {
+    "id": "c77e4cdb-9ed4-42c9-ae52-a84d47133c3d",
+    "name": "Tomate Barceló",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 31
+      }
+    ]
+  },
+  {
+    "id": "d7c0fdab-a8fd-4173-b202-eb1e19fa4a4d",
+    "name": "Tomate cherry",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 78
+      }
+    ]
+  },
+  {
+    "id": "b74a312b-f169-40d5-8ddf-1dd4cdba9268",
+    "name": "Tomate de ensalada",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 38
+      }
+    ]
+  },
+  {
+    "id": "03ed0b20-1ef9-4d96-b488-f3f549e22c12",
+    "name": "Tomillo",
+    "group": "Hierbas y especias",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Paquete",
+        "price": 82
+      },
+      {
+        "unit": "Libra",
+        "price": 157
+      }
+    ]
+  },
+  {
+    "id": "2937809a-b67a-4d29-b99e-fcece5c58591",
+    "name": "Uva roja",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 168
+      }
+    ]
+  },
+  {
+    "id": "6bdb28b4-8976-4272-9677-987feff0075b",
+    "name": "Uva verde",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 248
+      }
+    ]
+  },
+  {
+    "id": "1887b1b9-7e3e-419f-a400-bd1e6dffb3ef",
+    "name": "Vainita chatas",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 123
+      }
+    ]
+  },
+  {
+    "id": "4cee95d1-7ef1-4bbb-b1a4-ef7fc3f591f0",
+    "name": "Vainita chinas",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 63
+      }
+    ]
+  },
+  {
+    "id": "2d24e7d8-aebe-4c78-8dea-521961e64bce",
+    "name": "Vainita criolla",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 63
+      }
+    ]
+  },
+  {
+    "id": "31eee1a9-eb8b-425f-9404-be05b95e1965",
+    "name": "Vainita largas",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 63
+      }
+    ]
+  },
+  {
+    "id": "17de5637-1f44-4e01-8da6-657242b86749",
+    "name": "Yautía amarilla",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 87
+      }
+    ]
+  },
+  {
+    "id": "01546b78-7a49-4d3f-b348-17663df65ce9",
+    "name": "Yautía blanca",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 71
+      }
+    ]
+  },
+  {
+    "id": "130c36fe-5206-4220-b7c8-3d7762cafd2a",
+    "name": "Yautía coco",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 51
+      }
+    ]
+  },
+  {
+    "id": "bc771e65-8a3d-4b60-ae2a-39207ce4919a",
+    "name": "Yuca",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "id": "8f500f19-1c99-4b25-8431-7b4b4e32a93d",
+    "name": "Yuca encerada",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 38
+      }
+    ]
+  },
+  {
+    "id": "b4520db6-5e11-486e-8364-f3fc2b6cd5ee",
+    "name": "Yuca lavada",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 28
+      }
+    ]
+  },
+  {
+    "id": "6604e4a9-c0d6-4f7a-b9aa-acf6f257c4a4",
+    "name": "Zanahoria",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 45
+      }
+    ]
+  },
+  {
+    "id": "86864938-8502-46e3-aacc-1e8cd08bcec1",
+    "name": "Zapote",
+    "group": "Frutas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 38
+      }
+    ]
+  },
+  {
+    "id": "e2146743-911b-4d4d-a708-ac4484a6d55e",
+    "name": "Zucchini italiano",
+    "group": "Hortalizas",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 51
+      }
+    ]
+  },
+  {
+    "id": "f7ec70c0-27d2-4519-bdc4-048363b38b9b",
+    "name": "Ñame mina",
+    "group": "Víveres",
+    "archived": false,
+    "options": [
+      {
+        "unit": "Libra",
+        "price": 61
+      }
+    ]
+  }
+]
